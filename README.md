@@ -1,3 +1,7 @@
+## Near BOS
+
+https://near.org/177240d7728484e7a3878fdcd8557e89fd87a4350f45d5de9f7ab0dc0e2400c8/widget/valocracy.components.chat
+
 ## Apresentar o endereço do smart contract publicado
 
 0x068FEB656BdFe6Db58b55Af7Ed7fbe4E0cEb52EC
