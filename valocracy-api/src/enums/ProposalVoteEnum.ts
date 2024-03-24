@@ -1,0 +1,6 @@
+export enum ProposalVoteEnum {
+    YES = 'YES',
+    NO = 'NO',
+    VETO = 'VETO',
+    ABSTAIN = 'ABSTAIN'
+}

@@ -1,0 +1,7 @@
+.vscode
+docs
+.eslintrc.json
+.gitignore
+__mocks__
+__tests__
+node_modules

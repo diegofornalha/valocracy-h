@@ -1,0 +1,8 @@
+export enum ProposalStatusEnum {
+    OPEN='OPEN',
+    APPROVED='APPROVED',
+    REPROVED='REPROVED',
+    VETOED='VETOED',
+    INVALIDATED='INVALIDATES',
+    CLOSED='CLOSED'
+} 
