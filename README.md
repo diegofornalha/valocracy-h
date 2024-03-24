@@ -12,6 +12,6 @@ https://portal.valocracy.xyz/
 
 ## Ter o código fonte de TODAS as partes em UM repositório Github PÚBLICO
 
-Frontend: valocracy-app-frontend
-Backend: valocracy-api
+Frontend: valocracy-app-frontend 
+Backend: valocracy-api 
 Contracts: valocracy-smartcontract
