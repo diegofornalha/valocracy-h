@@ -1,3 +1,8 @@
+# Near BOS
+
+https://near.org/177240d7728484e7a3878fdcd8557e89fd87a4350f45d5de9f7ab0dc0e2400c8/widget/valocracy.components.chat
+
+
 # TypeScript Starter Project for NEAR BOS
 
 [NEAR BOS (Blockchain OS)](https://docs.near.org/bos/) is an excellent foundation for decentralized front-end apps.
